@@ -20612,7 +20612,7 @@ A.a6X.prototype={
 $1(a){var s=A.cX().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a6bd3f1de158bb61090e0c8053df93a10cb548e1/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a18df97ca57a249df5d8d68cd0820600223ce262/":s)+a},
 $S:136}
 A.O3.prototype={
 cg(){B.c.a_(this.a.a.save())},
