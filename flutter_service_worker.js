@@ -3,12 +3,22 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "795e2cb90c55ebff53cc04ed0407b8af",
-"assets/AssetManifest.bin.json": "92a802b84ce6cae41a86bab3b3b6f77a",
-"assets/AssetManifest.json": "d5142b8f054a658d0a79506a7fcd4bed",
+const RESOURCES = {"assets/AssetManifest.bin": "09a61c236be8de8c5f7dc6773c245c6d",
+"assets/AssetManifest.bin.json": "f486416d5cb2aea97de334d1f92dfd92",
+"assets/AssetManifest.json": "1a50bb69b28305f7e391e505bc81c2eb",
+"assets/assets/images/ai_1.png": "c09b66abe1c90c3003b9cea5b8a1eac0",
+"assets/assets/images/ai_2.png": "c6438f971cb557e6f95a1bcadd03028f",
+"assets/assets/images/ai_3.png": "bb1d142472d4128b82c10c3890982194",
+"assets/assets/images/han.jpg": "ded4fab1b96847b97e57dce87cba4941",
+"assets/assets/images/Ln.png": "37af43f7650a176105f69d26b296e6a5",
+"assets/assets/images/Lu1.png": "813da9dafd875b0623cf853add8af37e",
 "assets/assets/images/vr_game.png": "349ad6b62b583689e15332b70325f67f",
+"assets/assets/images/vr_game2.png": "7d1c884b85ab92bc54b6e857d171baf6",
+"assets/assets/images/vr_game3.png": "b8bc0f498f26c0db01ef8cadceb540e3",
+"assets/assets/images/vr_game4.png": "33bb576d2e96af41061f6c96ab91971f",
+"assets/assets/images/w.jpg": "62ba3de09281e92c86db902fe61efe1e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "8f19ef923fbe16060efec290ee7d5aa6",
+"assets/fonts/MaterialIcons-Regular.otf": "1dd13e4011bdbdae9fd2691c7961694c",
 "assets/NOTICES": "7a1f472d38cdb4e55ea00cafcf535db9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -23,10 +33,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "795e2cb90c55ebff53cc04ed0407b8af
 "canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "66603f9eb57dd5d84a1961385a9d18f0",
+"flutter_bootstrap.js": "91154d8d3c84f3ecd48aef43b2384c75",
 "index.html": "20012598fb5000b0e30d2b489d634a1a",
 "/": "20012598fb5000b0e30d2b489d634a1a",
-"main.dart.js": "43dd394d5e2ce297bb6b31d8eb69ccec",
+"main.dart.js": "dee1a70f9026149863da4f6acc0b0322",
 "version.json": "2a1d5b6ba2d95f74c5624ae3cba2408b"};
 // The application shell files that are downloaded before a service worker can
 // start.
